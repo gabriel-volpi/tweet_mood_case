@@ -7,17 +7,6 @@ import androidx.lifecycle.ViewModelProvider
 
 class MainActivityViewModel @ViewModelInject constructor() : ViewModel() {
 
-    /* FAZENDO UMA VIEW MODEL FACTORY COMO UM HOMEM DAS CAVERNAS FAZIA
-    class ViewModelFactory() : ViewModelProvider.Factory {
-        override fun <T : ViewModel?> create(modelClass: Class<T>): T{
-            if(modelClass.isAssignableFrom(MainActivityViewModel::class.java)) {
-                return modelClass.getConstructor().newInstance()
-            }
-            throw IllegalArgumentException("Unknown ViewModel class")
-        }
-    }
-    */
-
     init {
         Log.d("viewModel", "Testing Dependency injection with hilt")
     }

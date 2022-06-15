@@ -17,13 +17,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         viewModel
-        //INSTANCIANDO UM VIEWMODEL COMO UM HOMEM DAS CAVERNAS FAZIA
-        //viewModel = ViewModelProvider(this).get(MainActivityViewModel::class.java)
 
-        //viewModel = ViewModelProvider(
-        //     viewModelStore,
-        //     MainActivityViewModel.ViewModelFactory()
-        // ).get(MainActivityViewModel::class.java)
     }
 
 }
