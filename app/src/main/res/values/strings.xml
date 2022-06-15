@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">tweet_mood</string>
+    <string name="twitter_logo_content_description">Twitter logo</string>
+    <string name="welcome_note">Bem vindo ao Twitter Mood</string>
+    <string name="home_label_message">Digite um twitter username e clique em Pesquisar</string>
+    <string name="hint">username</string>
+    <string name="button_search_user">Pesquisar</string>
+
+
 </resources>
