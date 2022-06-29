@@ -5,7 +5,8 @@
       <map>
         <entry key="app/src/main/res/drawable/edittext_shape.xml" value="0.1705" />
         <entry key="app/src/main/res/drawable/rounded_corner.xml" value="0.1705" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/find_user_fragment.xml" value="0.1828774062816616" />
       </map>
     </option>
   </component>
